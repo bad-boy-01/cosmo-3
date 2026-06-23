@@ -1,0 +1,70 @@
+{
+  "state": {
+    "current_location": "Xu Changshou's bedroom",
+    "time_of_day": "afternoon",
+    "weather": "sunny",
+    "active_characters": [
+      "Xu Changshou",
+      "Xu Kaixi (father)",
+      "Zhang Xiue (mother)",
+      "Xu Dagui (older brother)",
+      "Xu Youtian (older brother)",
+      "Xu Xiaomei (little sister)"
+    ]
+  },
+  "panels": [
+    {
+      "id": "p1",
+      "sequence": 1,
+      "beat_type": "action",
+      "shot_type": "medium_shot",
+      "importance": 8,
+      "merge_with_previous": false,
+      "location": "Xu Changshou's bedroom",
+      "focus_character": "Xu Changshou",
+      "characters": [
+        "Xu Changshou",
+        "Xu Kaixi (father)",
+        "Zhang Xiue (mother)",
+        "Xu Dagui",
+        "Xu Youtian",
+        "Xu Xiaomei"
+      ],
+      "description": "Xu Changshou lies weakly in bed, his eyes fluttering open. His little sister Xiaomei shakes his arm vigorously. The rest of the family surrounds the bed, their faces filled with relief and joy.",
+      "chapter": 1
+    },
+    {
+      "id": "p2",
+      "sequence": 2,
+      "beat_type": "action",
+      "shot_type": "close_up",
+      "importance": 6,
+      "merge_with_previous": false,
+      "location": "Xu Changshou's bedroom",
+      "focus_character": "Xu Changshou",
+      "characters": [
+        "Xu Changshou",
+        "Xu Xiaomei"
+      ],
+      "description": "A closer view as Xu Changshou turns his head slightly to look at Xiaomei. She smiles brightly, her small hands still clutching his sleeve.",
+      "chapter": 1
+    },
+    {
+      "id": "p3",
+      "sequence": 3,
+      "beat_type": "emotion",
+      "shot_type": "medium_shot",
+      "importance": 7,
+      "merge_with_previous": false,
+      "location": "Xu Changshou's bedroom",
+      "focus_character": "Zhang Xiue (mother)",
+      "characters": [
+        "Xu Changshou",
+        "Zhang Xiue (mother)",
+        "Xu Kaixi (father)"
+      ],
+      "description": "Zhang Xiue wipes a tear from her eye, leaning in closer. The atmosphere is warm and emotional as the parents gaze down at their recovering son.",
+      "chapter": 1
+    }
+  ]
+}
